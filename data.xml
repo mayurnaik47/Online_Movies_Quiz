@@ -1,0 +1,556 @@
+<?xml version="1.0" standalone="yes"?>
+
+
+<Movie>
+
+<obj>
+    <name>Criteria</name>
+    <title>Select Movie by</title>
+    <title1>Selected Type:</title1>
+    <value>Genre</value>     
+    <value>Language</value>
+    <value>Year</value>
+</obj>
+        
+    
+<obj>
+    <name>Genre</name>
+    <title>Select Genre Type</title>
+    <title1>Selected Genre Type</title1>
+    <value>Action</value>     
+    <value>Adventure</value>
+    <value>Horror</value>
+
+</obj>
+
+<obj>
+    <name>Language</name>
+    <title>Select Language</title>
+    <title1>Selected Language</title1>
+    <value>Hindi</value>
+    <value>English</value>
+    
+
+</obj>
+
+<obj>
+    <name>Year</name>
+    <title>Select Year</title>
+    <title1>Selected Year</title1>
+    <value>1972</value>
+    <value>1999</value>
+    <value>2008</value>
+    
+
+</obj>
+    
+<obj>
+    <name>Action</name>
+    <title>Select Actor</title>
+    <title1>Selected Actor</title1>
+    <value>Tom Cruise</value>
+    <value>Leonardo Dicaprio</value>
+    <value>Taron Egerton</value>
+
+</obj>
+    
+<obj>
+    <name>Adventure</name>
+    <title>Select Actor</title>
+    <title1>Selected Actor</title1>
+    <value>Tom Hardy</value>
+    <value>Sam Worthington</value>
+    <value>Tom Hanks</value>
+
+</obj>
+    
+<obj>
+    <name>Horror</name>
+    <title>Select Actor</title>
+    <title1>Selected Actor</title1>
+    <value>Ralph Ineson</value>
+    <value>Eoin Macken</value>
+    <value>Lauren Cohan</value>
+
+</obj>
+    
+<obj>
+    <name>English</name>
+    <title>Select Movie</title>
+    <title1>Selected Movies</title1>
+    <value>The Godfather</value>
+    <value>The Dark Knight</value>
+    <value>The Matrix</value>
+
+</obj>
+    
+<obj>
+    <name>Hindi</name>
+    <title>Select Movie</title>
+    <title1>Selected Movies</title1>
+    <value>Swades</value>
+    <value>Singham</value>
+    <value>Bodyguard</value>
+
+</obj> 
+
+<obj>
+    <name>1972</name>
+    <title>Select Language</title>
+    <title1>Selected Language</title1>
+    <value>English </value>
+    <value>Hindi </value>
+</obj> 
+
+<obj>
+    <name>2008</name>
+    <title>Select Language</title>
+    <title1>Selected Language</title1>
+    <value>English   </value>
+    <value>Hindi   </value>
+</obj> 
+<obj>
+    <name>1999</name>
+    <title>Select Language</title>
+    <title1>Selected Language</title1>
+    <value>English  </value>
+    <value>Hindi  </value>
+</obj> 
+    
+<obj>
+    <name>English </name>
+    <title>Select Movie </title>
+    <title1>Selected Movies </title1>
+    <value>The Godfather</value>
+    <value>The Exorcist</value>
+    <value>Life of Pie</value>
+
+</obj>  
+<obj>
+    <name>Hindi </name>
+    <title>Select Movie </title>
+    <title1>Selected Movies </title1>
+    <value>Parichay</value>
+    <value>Bawarchi</value>
+    <value>Shor</value>
+
+</obj>  
+
+<obj>
+    <name>English  </name>
+    <title>Select Movie </title>
+    <title1>Selected Movies </title1>
+    <value>The Matrix</value>
+    <value>The Sixth Sense</value>
+    <value>The Iron Giant</value>
+
+</obj>  
+<obj>
+    <name>Hindi  </name>
+    <title>Select Movie </title>
+    <title1>Selected Movies </title1>
+    <value>Vaastav</value>
+    <value>Baadshah</value>
+    <value>Taal</value>
+
+</obj>  
+<obj>
+    <name>English   </name>
+    <title>Select Movie </title>
+    <title1>Selected Movies </title1>
+    <value>Iron Man</value>
+    <value>Slumdog Millionaire</value>
+    <value>Gran Torino</value>
+
+</obj>  
+<obj>
+    <name>Hindi   </name>
+    <title>Select Movie </title>
+    <title1>Selected Movies </title1>
+    <value>1920 Returns</value>
+    <value>Jodha Akbar</value>
+    <value>Rock On!!</value>
+
+</obj>  
+
+    
+<quizz>
+ <name>Quiz Question</name>    
+ <title>Guess the Movie</title>
+ <quiz>Select Actor</quiz>
+    
+ <valuee>
+  
+    <value>Tom Cruise</value>
+    <value>Alien</value>
+    <value>Oblivion</value>
+    <value>Inception</value>
+    <ans>Tom Cruise</ans>
+    <ans>Oblivion</ans>
+    <img>images/oblivion1.png</img>
+</valuee> 
+
+<valuee>
+  
+    <value>Leonardo Dicaprio</value>
+    <value>Heat</value>
+    <value>The Dark Knight</value>
+    <value>Shutter Island</value>
+    <ans>Leonardo Dicaprio</ans>
+    <ans>Shutter Island</ans>
+    <img>images/shutter.png</img>
+    
+</valuee>    
+    
+<valuee>
+  
+    <value>Taron Egerton</value>
+    <value>Kingsman</value>
+    <value>Gladiator</value>
+    <value>The Matrix</value>
+    <ans>Taron Egerton</ans>
+    <ans>Kingsman</ans>
+    <img>images/kingsman.png</img>
+    
+ </valuee> 
+
+<valuee>
+  
+    <value>Tom Hardy</value>
+    <value>The Revenant</value>
+    <value>Big Fish</value>
+    <value>Apocalypto</value>
+    <ans>Tom Hardy</ans>
+    <ans>The Revenant</ans>
+    <img>images/revenant.png</img>
+    
+ </valuee> 
+<valuee>
+  
+    <value>Sam Worthington</value>
+    <value>Hugo</value>
+    <value>Avatar</value>
+    <value>Casino Royale</value>
+    <ans>Sam Worthington</ans>
+    <ans>Avatar</ans>
+    <img>images/avatar.png</img>
+    
+ </valuee> 
+<valuee>
+  
+    <value>Tom Hanks</value>
+    <value>The Big Blue</value>
+    <value>The Great Escape</value>
+    <value>Cast Away</value>
+    <ans>Tom Hanks</ans>
+    <ans>Cast Away</ans>
+    <img>images/cast.png</img>
+    
+ </valuee> 
+
+<valuee>
+  
+    <value>Ralph Ineson</value>
+    <value>The Witch</value>
+    <value>Halloween</value>
+    <value>Scary Movie</value>
+    <ans>Ralph Ineson</ans>
+    <ans>The Witch</ans>
+    <img>images/witch.png</img>
+    
+ </valuee>
+<valuee>
+  
+    <value>Eoin Macken</value>
+    <value>Scream</value>
+    <value>The Forest</value>
+    <value>The Exorcist</value>
+    <ans>Eoin Macken</ans>
+    <ans>The Forest</ans>
+    <img>images/forest.png</img>
+    
+ </valuee>
+<valuee>
+  
+    <value>Lauren Cohan</value>
+    <value>The Boy</value>
+    <value>Sinister</value>
+    <value>The Shining</value>
+    <ans>Lauren Cohan</ans>
+    <ans>The Boy</ans>
+    <img>images/boy.png</img>
+    
+ </valuee>
+    
+ 
+</quizz>
+    
+<quizz>
+ <name>Quiz Question</name>    
+ <title>Guess the Actor</title>
+ <quiz>Select Movie</quiz>
+    
+ <valuee>
+  
+    <value>The Godfather</value>
+    <value>Marlon Brando</value>
+    <value>Roger Ferris</value>
+    <value>Brandon Darrow</value>
+    <ans>The Godfather</ans>
+    <ans>Marlon Brando</ans>
+     <img>images/god.png</img>
+</valuee> 
+
+<valuee>
+  
+    <value>The Dark Knight</value>
+    <value>Derek</value>
+    <value>Richard</value>
+    <value>Cristian Bale</value>
+    <ans>The Dark Knight</ans>
+    <ans>Cristian Bale</ans>
+    <img>images/knight.png</img>
+</valuee>    
+    
+<valuee>
+  
+    <value>The Matrix</value>
+    <value>Keanu Reeves</value>
+    <value>Jack Dawson</value>
+    <value>Romeo</value>
+    <ans>The Matrix</ans>
+    <ans>Keanu Reeves</ans>
+    <img>images/matrix.png</img>
+    
+ </valuee>  
+<valuee>
+  
+    <value>Swades</value>
+    <value>Shahrukh Khan</value>
+    <value>Aamir Khan</value>
+    <value>Irfan Khan</value>
+    <ans>Swades</ans>
+    <ans>Shahrukh Khan</ans>
+    <img>images/swades.png</img>
+    
+ </valuee>   
+<valuee>
+  
+    <value>Singham</value>
+    <value>Akshay Kumar</value>
+    <value>Ajay Devgan</value>
+    <value>Salman Khan</value>
+    <ans>Singham</ans>
+    <ans>Ajay Devgan</ans>
+     <img>images/singham.png</img>
+    
+ </valuee>   
+<valuee>
+  
+    <value>Bodyguard</value>
+    <value>Vivek Oberoi</value>
+    <value>Hrithik Roshan</value>
+    <value>Salman Khan</value>
+    <ans>Bodyguard</ans>
+    <ans>Salman Khan</ans>
+    <img>images/bodyguard.png</img>
+    
+ </valuee>   
+
+
+</quizz>   
+    
+<quizz>
+ <name>Quiz Question</name>    
+ <title>Guess the Genre</title>
+ <quiz>Select Movie </quiz>
+    
+ <valuee>
+  
+    <value>The Godfather</value>
+    <value>Crime</value>
+    <value>Horror</value>
+    <value>Adventure</value>
+    <ans>The Godfather</ans>
+    <ans>Crime</ans>
+    <img>images/god.png</img>
+</valuee> 
+<valuee>
+  
+    <value>The Exorcist</value>
+    <value>Crime</value>
+    <value>Horror</value>
+    <value>Adventure</value>
+    <ans>The Exorcist</ans>
+    <ans>Horror</ans>
+    <img>images/exorcist.png</img>
+</valuee> 
+<valuee>
+  
+    <value>Life of Pie</value>
+    <value>Crime</value>
+    <value>Horror</value>
+    <value>Adventure</value>
+    <ans>Life of Pie</ans>
+    <ans>Adventure</ans>
+    <img>images/life.png</img>
+</valuee>
+<valuee>
+  
+    <value>The Matrix</value>
+    <value>Action</value>
+    <value>Horror</value>
+    <value>Adventure</value>
+    <ans>The Matrix</ans>
+    <ans>Action</ans>
+    <img>images/matrix.png</img>
+</valuee>
+<valuee>
+  
+    <value>The Sixth Sense</value>
+    <value>Crime</value>
+    <value>Horror</value>
+    <value>Adventure</value>
+    <ans>The Sixth Sense</ans>
+    <ans>Horror</ans>
+    <img>images/sense.png</img>
+</valuee>
+<valuee>
+  
+    <value>The Iron Giant</value>
+    <value>Crime</value>
+    <value>Horror</value>
+    <value>Comedy</value>
+    <ans>The Iron Giant</ans>
+    <ans>Comedy</ans>
+    <img>images/giant.png</img>
+</valuee>
+<valuee>
+  
+    <value>Iron Man</value>
+    <value>Action</value>
+    <value>Horror</value>
+    <value>Comedy</value>
+    <ans>Iron Man</ans>
+    <ans>Action</ans>
+    <img>images/iron.png</img>
+</valuee>
+<valuee>
+  
+    <value>Slumdog Millionaire</value>
+    <value>Crime</value>
+    <value>Horror</value>
+    <value>Comedy</value>
+    <ans>Slumdog Millionaire</ans>
+    <ans>Comedy</ans>
+    <img>images/slum.png</img>
+</valuee>
+<valuee>
+  
+    <value>Gran Torino</value>
+    <value>Crime</value>
+    <value>Horror</value>
+    <value>Drama</value>
+    <ans>Gran Torino</ans>
+    <ans>Drama</ans>
+    <img>images/gran.png</img>
+</valuee>
+    
+<valuee>
+  
+    <value>Parichay</value>
+    <value>Romance</value>
+    <value>Horror</value>
+    <value>Adventure</value>
+    <ans>Parichay</ans>
+    <ans>Romance</ans>
+    <img>images/pari.png</img>
+</valuee> 
+
+<valuee>
+  
+    <value>Bawarchi</value>
+    <value>Crime</value>
+    <value>Comedy</value>
+    <value>Romance</value>
+    <ans>Bawarchi</ans>
+    <ans>Comedy</ans>
+    <img>images/bawar.png</img>
+</valuee> 
+
+<valuee>
+  
+    <value>Shor</value>
+    <value>Crime</value>
+    <value>Drama</value>
+    <value>Adventure</value>
+    <ans>Shor</ans>
+    <ans>Drama</ans>
+    <img>images/shor.png</img>
+</valuee> 
+<valuee>
+    <value>Vaastav</value>
+    <value>Action</value>
+    <value>Drama</value>
+    <value>Adventure</value>
+    <ans>Vaastav</ans>
+    <ans>Action</ans>
+    <img>images/bawar.png</img>
+</valuee> 
+<valuee>
+    <value>Baadshah</value>
+    <value>Comedy</value>
+    <value>Crime</value>
+    <value>Action</value>
+    <ans>Baadshah</ans>
+    <ans>Comedy</ans>
+    <img>images/baad.png</img>
+</valuee> 
+<valuee>
+  
+    <value>Taal</value>
+    <value>Crime</value>
+    <value>Romance</value>
+    <value>Adventure</value>
+    <ans>Taal</ans>
+    <ans>Romance</ans>
+     <img>images/taal.png</img>
+</valuee> 
+<valuee>
+  
+    <value>1920 Returns</value>
+    <value>Crime</value>
+    <value>Romance</value>
+    <value>Horror</value>
+    <ans>1920 Returns</ans>
+    <ans>Horror</ans>
+    <img>images/1920.png</img>
+</valuee> 
+
+    <valuee>
+  
+    <value>Jodha Akbar</value>
+    <value>Action</value>
+    <value>Romance</value>
+    <value>Adventure</value>
+    <ans>Jodha Akbar</ans>
+    <ans>Action</ans>
+    <img>images/jodha.png</img>
+</valuee> 
+
+    <valuee>
+  
+    <value>Rock On!!</value>
+    <value>Music</value>
+    <value>Romance</value>
+    <value>Adventure</value>
+    <ans>Rock On!!</ans>
+    <ans>Music</ans>
+    <img>images/rock.png</img>
+</valuee> 
+
+
+</quizz>  
+    
+</Movie>
+
